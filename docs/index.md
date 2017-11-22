@@ -1,4 +1,4 @@
-# LLCT2 Network - Visualizing linguistic variation in a network of Latin documents and scribes
+##Visualizing linguistic variation in a network of Latin documents and scribes
 
 * [Figure 4: Spelling correctness](./04/)
 * [Figure 5: Classical prepositions](./05/)
