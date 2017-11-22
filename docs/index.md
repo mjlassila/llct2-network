@@ -10,7 +10,7 @@
 * [Figure 14: Spelling correctness of lay scribes and their documents after AD 812](./14/)
 
 
-[Licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+Licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 Timo Korkiakangas, University of Oslo, Norway
 
