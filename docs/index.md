@@ -8,7 +8,7 @@
 * [Figure 12: Spelling correctness of lay scribes and their documents until AD 812](./12/)
 * [Figure 13: Spelling correctness of ecclesiastical scribes and their documents until AD 812](./13/)
 * [Figure 14: Spelling correctness of lay scribes and their documents after AD 812](./14/)
-
+* [Figure 15: Spelling correctness of ecclesiastical scribes and their documents after AD 812](./15/)
 
 Licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
